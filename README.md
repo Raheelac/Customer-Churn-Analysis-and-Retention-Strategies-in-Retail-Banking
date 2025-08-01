@@ -10,7 +10,6 @@ Raheela Charania, Anmol Anchala, Emmanuel Wediko
 **Course:**  
 BDA 620: Data Mining, Mercer University  
 **Instructor:** Dr. Eshan Ahmadi  
-**Date:** December 12, 2024
 
 ## 🧠 Objective
 
